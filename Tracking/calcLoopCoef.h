@@ -1,0 +1,1 @@
+float* calcLoopCoef(char,float,float);
